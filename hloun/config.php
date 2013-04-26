@@ -6,19 +6,19 @@ ini_set('session.gc-maxlifetime', 99*90*90);
 
 /* Add DataBase Host */
 
-define(HOST,'localhost');
+define(HOST,'sql202.eb2a.com');
 
 /* DATABASE USERNAME */
 
-define(DB_USERNAME,'root');
+define(DB_USERNAME,'eb2a_12981129');
 
 /* DATABASE PASSWORD */
 
-define(DB_PASSWORD,'baha');
+define(DB_PASSWORD,'mizotito');
 
 /* DATABASE NAME */
 
-define(DB_NAME,'bh');
+define(DB_NAME,'eb2a_12981129');
 
 /* Please Do Not Edit anything down */
 
